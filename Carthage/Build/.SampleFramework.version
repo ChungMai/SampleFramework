@@ -1,0 +1,18 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "5f50cd7ee93c2265dd33549a3f3e0ab4befbb824",
+  "iOS" : [
+    {
+      "name" : "SampleFramework",
+      "hash" : "c5a6229182f4540a5da3a361660e6d9eab6d0d9e3aa6460a7523c78cba2eab34"
+    }
+  ]
+}
