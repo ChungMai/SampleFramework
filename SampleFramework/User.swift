@@ -9,6 +9,6 @@
 import Foundation
 
 public class User {
-    var name: String?
-    var age: Int?
+    public var name: String?
+    public var age: Int?
 }
