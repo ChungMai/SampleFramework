@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		D3334D5F22F03AAF001C50E5 /* SampleFramework.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D3334D5522F03AAF001C50E5 /* SampleFramework.framework */; };
+		D3334D6422F03AAF001C50E5 /* SampleFrameworkTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3334D6322F03AAF001C50E5 /* SampleFrameworkTests.swift */; };
 		D3334D6622F03AAF001C50E5 /* SampleFramework.h in Headers */ = {isa = PBXBuildFile; fileRef = D3334D5822F03AAF001C50E5 /* SampleFramework.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
@@ -26,6 +27,8 @@
 		D3334D5822F03AAF001C50E5 /* SampleFramework.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SampleFramework.h; sourceTree = "<group>"; };
 		D3334D5922F03AAF001C50E5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D3334D5E22F03AAF001C50E5 /* SampleFrameworkTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SampleFrameworkTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		D3334D6322F03AAF001C50E5 /* SampleFrameworkTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SampleFrameworkTests.swift; sourceTree = "<group>"; };
+		D3334D6522F03AAF001C50E5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +54,7 @@
 			isa = PBXGroup;
 			children = (
 				D3334D5722F03AAF001C50E5 /* SampleFramework */,
+				D3334D6222F03AAF001C50E5 /* SampleFrameworkTests */,
 				D3334D5622F03AAF001C50E5 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -71,6 +75,15 @@
 				D3334D5922F03AAF001C50E5 /* Info.plist */,
 			);
 			path = SampleFramework;
+			sourceTree = "<group>";
+		};
+		D3334D6222F03AAF001C50E5 /* SampleFrameworkTests */ = {
+			isa = PBXGroup;
+			children = (
+				D3334D6322F03AAF001C50E5 /* SampleFrameworkTests.swift */,
+				D3334D6522F03AAF001C50E5 /* Info.plist */,
+			);
+			path = SampleFrameworkTests;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -188,6 +201,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D3334D6422F03AAF001C50E5 /* SampleFrameworkTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

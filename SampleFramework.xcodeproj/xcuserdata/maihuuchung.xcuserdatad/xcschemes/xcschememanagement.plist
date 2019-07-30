@@ -6,8 +6,28 @@
 	<dict>
 		<key>SampleFramework.xcscheme_^#shared#^_</key>
 		<dict>
+			<key>isShown</key>
+			<true/>
 			<key>orderHint</key>
 			<integer>0</integer>
+		</dict>
+		<key>SampleFrameworkTests.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>D3334D5422F03AAF001C50E5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D3334D5D22F03AAF001C50E5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
