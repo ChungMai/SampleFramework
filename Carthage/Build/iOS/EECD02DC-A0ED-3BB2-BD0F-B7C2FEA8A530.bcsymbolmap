@@ -1,0 +1,43 @@
+BCSymbolMap Version: 2.0
+_$sSSSgWOe
+_$s15SampleFramework4UserC4nameSSSgvpWvd
+_$s15SampleFramework4UserC3ageSiSgvpWvd
+_$s15SampleFrameworkMXM
+_$s15SampleFramework4UserCML
+_$s15SampleFramework4UserCMf
+_symbolic _____ 15SampleFramework4UserC
+_symbolic SSSg
+_symbolic SiSg
+_$s15SampleFramework4UserCMF
+__swift_FORCE_LOAD_$_swiftFoundation_$_SampleFramework
+__swift_FORCE_LOAD_$_swiftDarwin_$_SampleFramework
+__swift_FORCE_LOAD_$_swiftObjectiveC_$_SampleFramework
+__swift_FORCE_LOAD_$_swiftCoreFoundation_$_SampleFramework
+__swift_FORCE_LOAD_$_swiftDispatch_$_SampleFramework
+__swift_FORCE_LOAD_$_swiftCoreGraphics_$_SampleFramework
+__swift_FORCE_LOAD_$_swiftUIKit_$_SampleFramework
+__swift_FORCE_LOAD_$_swiftCoreImage_$_SampleFramework
+__swift_FORCE_LOAD_$_swiftMetal_$_SampleFramework
+__swift_FORCE_LOAD_$_swiftQuartzCore_$_SampleFramework
+___swift_reflection_version
+_objc_classes
+_$s15SampleFramework4UserC4nameSSSgvgTq
+_$s15SampleFramework4UserC4nameSSSgvsTq
+_$s15SampleFramework4UserC4nameSSSgvMTq
+_$s15SampleFramework4UserC3ageSiSgvgTq
+_$s15SampleFramework4UserC3ageSiSgvsTq
+_$s15SampleFramework4UserC3ageSiSgvMTq
+_$s15SampleFramework4UserCACycfCTq
+Apple LLVM version 10.0.1 (clang-1001.0.46.3)
+<swift-imported-modules>
+/Users/maihuuchung/Documents/Working/TemptProject/SampleFramework
+Apple Swift version 5.0 (swiftlang-1001.0.69.5 clang-1001.0.46.3)
+/Users/maihuuchung/Documents/Working/TemptProject/SampleFramework/SampleFramework/User.swift
+$s15SampleFramework4UserCMa
+<compiler-generated>
+deinit
+User.swift
+/Users/maihuuchung/Documents/Working/TemptProject/SampleFramework/SampleFramework
+$s15SampleFramework4UserC3ageSiSgvpfi
+$s15SampleFramework4UserC4nameSSSgvpfi
+/Users/maihuuchung/Library/Developer/Xcode/DerivedData/SampleFramework-bheeqnzauxinpjcqtbqbuylagtlq/Build/Intermediates.noindex/ArchiveIntermediates/SampleFramework/IntermediateBuildFilesPath/SampleFramework.build/Release-iphoneos/SampleFramework.build/DerivedSources/SampleFramework_vers.c
